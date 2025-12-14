@@ -1,0 +1,84 @@
+.color{
+    background-color: beige;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    border: none;
+    text-decoration: none;
+}
+
+.body {
+    font-family: 'Nunito', sans-serif;
+    background-color: var(--bg); 
+}
+
+.saya{
+    background-image: url('../img/lysander-yuen-LKaN_tqplEw-unsplash.jpg');
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+}
+
+.hero{
+    min-height: 500vh;
+    display: flex;
+    align-items: top;
+}
+
+.card{
+    margin-left: 105px;
+    margin-top: 350px;
+}
+
+.card3{
+    margin-left: 35px;
+}
+
+.pb{
+    margin-top: 300px;
+    margin-bottom: -280px;
+}
+
+.ftr{
+    margin-left: 15%;
+    
+}
+
+.ftrs{
+    font-style: italic;
+    color: salmon;
+    margin-top: 15%;
+}
+
+.text{
+    margin-left: 15%;
+    color: salmon;
+}
+
+.sf{
+    color: salmon;
+}
+
+.rch{
+    color: salmon;
+    margin-top: 3%;
+    
+}
+
+ul li{
+    list-style: none;
+    margin-bottom: 12px;
+}
+
+ul li a{
+    text-decoration: none;
+    color: salmon;
+}
+
+.form{
+    margin-top: 12%;
+    color: salmon;
+}
